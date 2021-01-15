@@ -4,16 +4,16 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: ad2f91258cca6b9dc01540ddd55953434a226934ab7d3d814a77ff3376722f82
+-- hash: 771ff75a625d960771993639610cc8b33c70445338ff943806dc43ea1841ef91
 
 name:           cursed-pfp-maker
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/cursed-pfp-maker#readme>
-homepage:       https://github.com/githubuser/cursed-pfp-maker#readme
-bug-reports:    https://github.com/githubuser/cursed-pfp-maker/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2021 Author name here
+description:    Please see the README on GitHub at <https://github.com/skiros8732/cursed-pfp-maker#readme>
+homepage:       https://github.com/skiros8732/cursed-pfp-maker#readme
+bug-reports:    https://github.com/skiros8732/cursed-pfp-maker/issues
+author:         skiros
+maintainer:     skiros@skiros.me
+copyright:      2021 skiros
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
@@ -23,7 +23,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/cursed-pfp-maker
+  location: https://github.com/skiros8732/cursed-pfp-maker
 
 library
   exposed-modules:
